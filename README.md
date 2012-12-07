@@ -3,7 +3,7 @@
 
 GroupDocs Assembly plugin for ezPublish
 
-With GroupDocs Assembly plugin for ezPublish you can easily view on [contract management](http://groupdocs.com/apps/Assembly) directly from within your ezPublish website.
+With GroupDocs Assembly plugin you can work with [contract management software] (http://groupdocs.com/apps/Assembly) directly from within your ezPublish CMS.
 
 ###Plugin Manual Installation Instructions:
 1. "groupdocsAssembly" module contain "design, modules, setting", so unzip it into "extentions" directory, so parent directory is "groupdocsAssembly"
@@ -21,6 +21,5 @@ With GroupDocs Assembly plugin for ezPublish you can easily view on [contract ma
 * [view on contract management with GroupDocs Assembly](http://groupdocs.com/apps/assembly)
 * [Download Assembly plugin package here](https://github.com/groupdocs/ez-assembly)
 * [Embed DOC, DOCX, PDF Assembly in your ez Publish CMS website] (http://share.ez.no/projects)
-* [See package for GroupDocs Assembly plugin for ezPublish CMS](https://github.com/groupdocs/ez-groupdocs-assembly)
 
 ###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).

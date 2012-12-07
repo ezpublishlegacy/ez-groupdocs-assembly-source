@@ -18,9 +18,9 @@ With GroupDocs Assembly plugin for ezPublish you can easily view on [contract ma
 1.  Client CMS name tracking was added(referer parameter in the URL).
 
 ###[Sign, Manage, Annotate, Assemble, Compare and Convert Documents with GroupDocs](http://groupdocs.com)
-* [view on contract management with GroupDocs Assembly](http://groupdocs.com/apps/Assembly)
-* [Download Assembly plugin package here](https://github.com/groupdocs/ez-Assembly)
+* [view on contract management with GroupDocs Assembly](http://groupdocs.com/apps/assembly)
+* [Download Assembly plugin package here](https://github.com/groupdocs/ez-assembly)
 * [Embed DOC, DOCX, PDF Assembly in your ez Publish CMS website] (http://share.ez.no/projects)
-* [See source code for GroupDocs Assembly plugin for Radiant CMS](https://github.com/groupdocs/ez-Assembly-source)
+* [See package for GroupDocs Assembly plugin for ezPublish CMS](https://github.com/groupdocs/ez-groupdocs-assembly)
 
 ###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).

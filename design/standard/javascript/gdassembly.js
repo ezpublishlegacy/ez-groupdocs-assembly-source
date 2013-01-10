@@ -9318,7 +9318,7 @@ $(function(){
 					var height = val[2];
                     var cmsName = 'ezPublish'
                     var cmsVersion = '4.3.0'
-					var iframe = '<iframe src="http://dev-apps.groupdocs.com/assembly2/questionnaire-assembly/'+file_id+'?&referer='+cmsName+'/'+cmsVersion+'" frameborder="0" width="'+width+'" height="'+height+'"></iframe>';
+					var iframe = '<iframe src="https://apps.groupdocs.com/assembly2/questionnaire-assembly/'+file_id+'?&referer='+cmsName+'/'+cmsVersion+'" frameborder="0" width="'+width+'" height="'+height+'"></iframe>';
 					var re = new RegExp(key,"gi");
 					$('#main').html( $('#main').html().replace(re,iframe) );
 				});

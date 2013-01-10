@@ -71,7 +71,7 @@ Actions
         cmsName = 'ezPublish'
         cmsVersion = '4.3.0'
 		myWindow=window.open('','','width=500,height=300')
-		myWindow.document.write('<iframe src="http://dev-apps.groupdocs.com/assembly2/questionnaire-assembly/'+fileid+'?&referer='+cmsName+'/'+cmsVersion+'" frameborder="0" width="100%" height="100%"></iframe>')
+		myWindow.document.write('<iframe src="https://apps.groupdocs.com/assembly2/questionnaire-assembly/'+fileid+'?&referer='+cmsName+'/'+cmsVersion+'" frameborder="0" width="100%" height="100%"></iframe>')
 	}
 -->
 </script>

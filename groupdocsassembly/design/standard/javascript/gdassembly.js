@@ -9318,7 +9318,7 @@ $(function(){
 					var height = val[2];
                     var cmsName = 'ezPublish'
                     var cmsVersion = '4.3.0'
-					var iframe = '<iframe src="https://apps.groupdocs.com/assembly2/questionnaire-assembly/'+file_id+'?&referer='+cmsName+'/'+cmsVersion+'" frameborder="0" width="'+width+'" height="'+height+'"></iframe>';
+					var iframe = '<iframe src="https://apps.groupdocs.com/assembly2/questionnaire-assembly/'+file_id+'?&referer='+cmsName+'-Assembly/'+cmsVersion+'" frameborder="0" width="'+width+'" height="'+height+'">If you can see this text, your browser does not support iframes. Please enable iframe support in your browser or use the latest version of any popular web browsers such as Mozilla Firefox or Google Chrome. Learn more about GroupDocs <a href="http://groupdocs.com/apps/assembly">document generation</a> solution.</iframe>';
 					var re = new RegExp(key,"gi");
 					$('#main').html( $('#main').html().replace(re,iframe) );
 				});
